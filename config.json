@@ -1,7 +1,7 @@
 {
 	"WalletAddress": "xel:hmku272a5srhgsyxjzqzy6aushymhqzg73uphnwrw6fq4gg7hpvsq903x4x",
-	"PoolAddress": "auto.xatum.xelpool.com:5212",
+	"PoolAddress": "de.xatum.xelpool.com:5212",
 	"XatumBindPort": 5211,
 	"GetworkBindPort": 5210,
-	"Debug": false
+	"Debug": true
 }
